@@ -1,0 +1,20 @@
+{
+  "variable": {
+    "web_domains": {
+      "type": "list(string)",
+      "default": []
+    },
+    "azuread_amais_client_id": {
+      "type": "string"
+    },
+    "azuread_amais_client_secret": {
+      "type": "string"
+    },
+    "azuread_amais_tenant_id": {
+      "type": "string"
+    },
+    "syslog_token": {
+      "type": "string"
+    }
+  }
+}
